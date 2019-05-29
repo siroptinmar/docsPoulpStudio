@@ -1,3 +1,7 @@
+---
+description: 'PoulpStudio est une méthodologie de travail, non un  outil technique.'
+---
+
 # Bons Usages
 
 ## Petits tips sur les bons usages de PoulpStudio 
@@ -6,7 +10,7 @@ Avec PoulpStudio, créez des smartfictions interactives, multijoueurs ! Les _Pou
 
 **Qu'est-ce qu'une** _**notifiction**_ **@PoulpWik 🎓 ?** 
 
-La notifiction est ce qui fait événement dans votre histoire ! La notifiction est la contraction de deux termes : notification et de fiction. Techniquement, la notifiction a les mêmes propriétés qu’une notification mais son emploi n’est pas le même. La notifcation fait événement dans le milieu réel alors que la notifiction fait événement dans le milieu fictif. Elle permet de rediriger le/la PoulpReaer dans l’espace de lecture que vous souhaitez.  
+La _notifiction_ est ce qui fait événement dans votre histoire ! La _notifiction_ est la contraction de deux termes : "notification" et de "fiction". Techniquement, la _notifiction_ a les mêmes propriétés qu’une notification mais son emploi n’est pas le même. La notifcation fait événement dans le milieu réel alors que la _notifiction_ fait événement dans le milieu fictif. Elle permet de rediriger le/la _PoulpReader_ dans l’espace de lecture que vous souhaitez.  
 
 
 ### Avec PoulpStudio 
@@ -18,7 +22,7 @@ La notifiction est ce qui fait événement dans votre histoire ! La notifiction 
 * bonus
 * notifiction
 
-La création de l’univers de fiction étant réalisée à partir de modèles d’applications similaires aux application utilisées au sein d’un smartphone, une liste reprenant les différents usages qu’un utilisateur de smartphone effectuent au quotidien est exposée ci-dessous. Cette indexation illustre les différentes ré-appropriations de ces usages dans un contexte de production de fictions jouées sur smartphone.  
+La création de l’univers de fiction étant réalisée à partir de modèles d’applications similaires aux applications utilisées au sein d’un smartphone, une liste reprenant les différents usages qu’un utilisateur de smartphone effectuent au quotidien est exposée ci-dessous. Cette indexation illustre les différentes ré-appropriations de ces usages dans un contexte de production de fictions jouées sur smartphone.  
 
 
 **INDEXATION DES USAGES NUMÉRIQUES D'UN SMARTPHONE :** 
@@ -122,7 +126,18 @@ Pour pouvoir progresser dans la lecture, le.la PoulpReader doit interagir avec l
 
 En tant que PoulpReader, le public reçoit votre histoire telle que vous l'imaginiez. Son statut de PoulpReader est remotivé lorsqu'il.elle reçoit une notifction de façon intrusive lors de son expérience de lecture ou pour le.la réinviter à rejoindre l'histoire qu'il ou elle avait précédemment quitté. 
 
-## Jeux de langage 
+## Jeux de langage
+
+En contexte numérique, les jeux de langage repose sur une articulation des usages sociaux et de la scénarisation de l'histoire que vous souhaitez partagez avec vos lecture. Autrement dit, les jeux de langage révèlent les pratiques usuelles d'un usager numérique dans un contexte de production d'un projet artistique. 
+
+* T9 
+* langage sms 
+* lapsus technologique --&gt; complicité avec le lecteur 
+* lettres en capitales \(traduction d'une émotion en contexte\) 
+* utilisation emoji pour scénariser une émotion, un état, une humeur. Complicité avec le lecteur. 
+* utilisation des \# 
+
+##  
 
 
 
