@@ -20,7 +20,7 @@ Parlons sérieusement un moment ou plus justement, parlons solennellement, le co
 
 📚La _notifiction_ est ce qui fait événement dans votre histoire ! La _notifiction_ est la contraction de deux termes : "notification" et de "fiction". Techniquement, la _notifiction_ a les mêmes propriétés qu’une notification mais son emploi n’est pas le même. La notifcation fait événement dans mon smartphone. Elle me rappelle les différents événements que j'ai programmés ou auxquels je me suis inscrit.e. La _notifiction_ quant à elle, __fait événement au sein de l'histoire à laquelle le lecteur/joueur s'est abonnée. Elle balise les différentes étapes de l'histoire et participe à la mise en intrigue de l'histoire. Elle permet de rediriger le/la _PoulpReader_ dans l’espace de lecture que vous, [PoulpBuilder](dico-du-poulp.md#poulpbuilder), souhaitez. 📚
 
-![Distinguo entre notifiction et notification](.gitbook/assets/notifiction-notificationpou%20%281%29.jpg)
+![Distinguo entre notifiction et notification](.gitbook/assets/notifiction-notificationpou.jpg)
 
 ### Avec PoulpStudio : 
 
@@ -151,9 +151,13 @@ La notifiction interne permet de dynamiser l'histoire. Alors que PoulpReader est
 
 ### Émetteur 
 
-Pour pouvoir progresser dans la lecture, le.la PoulpReader doit interagir avec les éléments que vous lui donner à jouer. Valider des choix de lecture, répondre à des énigmes, envoyer des messages. 
+![Personnage Joueur - &#xE9;metteur de contenu ](.gitbook/assets/emetteur.png)
+
+Pour pouvoir progresser dans la lecture, PoulpReader doit interagir avec les éléments qui lui sont donnés à jouer. Valider des choix de lecture, répondre à des énigmes, envoyer des messages. 
 
 ### Récepteur
+
+![Personnage Joueur - r&#xE9;cepteur de contenu](.gitbook/assets/recepteur.png)
 
 En tant que PoulpReader, le public reçoit votre histoire telle que vous l'imaginiez. Son statut de PoulpReader est remotivé lorsqu'il.elle reçoit une notifction de façon intrusive lors de son expérience de lecture ou pour le.la réinviter à rejoindre l'histoire qu'il ou elle avait précédemment quitté. 
 
