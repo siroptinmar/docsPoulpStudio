@@ -114,7 +114,7 @@ Construit au sein d'un environnement numérique, les petits poulps qui ont const
 
 ### L'environnement de jeu 
 
-Il repose sur les modèles applicatifs intégrés au sein de PoulpStudio. Ils sont les environnements de jeu où se déroule l’histoire. Chaque modèle applicatif met en jeu une séquence. Les modèles sont :
+~~**Il repose sur les modèle**~~s applicatifs intégrés au sein de PoulpStudio. Ils sont les environnements de jeu où se déroule l’histoire. Chaque modèle applicatif met en jeu une séquence. Les modèles sont :
 
 | Modèles Applicatifs |
 | :---: |
@@ -129,11 +129,19 @@ C’est en utilisant ces différents modèles d’environnement de jeu que vous 
 
 ### La notifiction 
 
-La _notifiction_ est ce qui fait événement au sein de l'histoire. Ayant les mêmes propriétés techniques que les notification, la _notifiction_ se distingue de la notification de par son usage exclusivement attesté en contexte fictif. La notifiction est celle qui redistribue le contenu entre les différents espaces de lecture où se joue l'histoire. Elle est également celle qui permet de faire acte de jouabilité. 
+La _notifiction_ a la mission d'accomplir deux rôles dans votre histoire ! Elle est le super outil permettant de rediriger PoulpReader dans l'espace de lecture dédié ! 
 
-![Notifiction re&#xE7;ue hors exp&#xE9;rience de lecture et notifiction re&#xE7;ue pendant mon exp&#xE9;rience de lecture.](.gitbook/assets/poulpnotif.png)
+![capture d&apos;&#xE9;cran de la notifiction dans son r&#xF4;le le plus prestigieux](.gitbook/assets/notif-espace-lecture.png)
 
-La notifiction comprend deux modes de jeu : notifiction externe et notifiction interne. 
+Elle est également celle qui permet au PoulpReader de pouvoir lire/jouer à nouveau.  
+
+![capture d&apos;&#xE9;cran de la notification donnant du pouvoir au Personnage Joueur ](.gitbook/assets/jouabilite-notifiction.png)
+
+La notifiction comprend deux modes de jeu : la notifiction externe et la notifiction interne. 
+
+
+
+![](.gitbook/assets/poulpnotif.png)
 
 ## Statut de PoulpReader : Emetteur/Récepteur 
 
