@@ -1,16 +1,24 @@
 ---
-description: 'PoulpStudio est une méthodologie de travail, non un  outil technique.'
+description: >-
+  "PoulpStudio est une méthodologie de travail, non un  outil technique." Poulp
+  Fayot
 ---
 
 # Bons Usages
 
 ## Les bons usages de PoulpStudio 
 
-Avec PoulpStudio, créez des [smartfictions](dico-du-poulp.md#smartfiction) interactives, multijoueur ! Les [_PoulpReaders_](dico-du-poulp.md#poulpreader) font des choix pour définir leur propre parcours de lecture. Diffusée sur smartphone, le/la _PoulpReader_ progresse dans sa lecture au rythme des [_notifictions_ ](dico-du-poulp.md#notifiction)qu’il.elle reçoit.
+En bon petits poulps que nous sommes, nous vous avons concocté une petite encyclopédie poulpienne que vous pourrez transmettre de parents en enfants pour raconter les différents récits de l'humanité !  😒Bon, après si vous ne souhaitez pas raconter l'histoire de l'humanité, vous pouvez aussi lire ce petit guide pour vous accompagner dans la production de l'histoire que vous souhaitez partager avec d'autres personnes que votre grand-mère, par exemple. En plus, le temps qu'elle comprenne comment fonctionne un smartphone... alors si elle doit capter que l'histoire est diffusée sur smartphone, vous n'avez pas fini...  Bref, ne divergeons pas ! Un monde est à construire 🚧🏗
+
+**C'est parti pour le jingle :** 
+
+ 🎙Avec PoulpStudio, créez des [smartfictions](dico-du-poulp.md#smartfiction) interactives, multijoueur ! [_PoulpReaders_](dico-du-poulp.md#poulpreader)  définissent leur propre parcours de lecture en sélectionnant tel ou tel choix de scénario. Diffusée sur smartphone, _PoulpReader_ parcourt l'histoire et progresse dans sa lecture au rythme des [_notifictions_ ](dico-du-poulp.md#notifiction)reçues. 🎙
 
 **Qu'est-ce qu'une** _**notifiction**_ **@PoulpWik 🎓 ?** 
 
-La _notifiction_ est ce qui fait événement dans votre histoire ! La _notifiction_ est la contraction de deux termes : "notification" et de "fiction". Techniquement, la _notifiction_ a les mêmes propriétés qu’une notification mais son emploi n’est pas le même. La notifcation fait événement dans mon smartphone. Elle me rappelle les différentes événements que j'ai programmés ou auxquels je me suis inscrit.e. La _notifiction_ quant à elle, __fait événement au sein de l'histoire à laquelle le lecteur/joueur s'est abonnée. Elle balise les différentes étapes de l'histoire et participe à la mise en intrigue de l'histoire. Elle permet de rediriger le/la _PoulpReader_ dans l’espace de lecture que vous, créateur.rice, souhaitez.
+Parlons sérieusement un moment ou plus justement, parlons solennellement, le coeur sur la main \(un peu à la Bernard Pivot\) : 
+
+📚La _notifiction_ est ce qui fait événement dans votre histoire ! La _notifiction_ est la contraction de deux termes : "notification" et de "fiction". Techniquement, la _notifiction_ a les mêmes propriétés qu’une notification mais son emploi n’est pas le même. La notifcation fait événement dans mon smartphone. Elle me rappelle les différents événements que j'ai programmés ou auxquels je me suis inscrit.e. La _notifiction_ quant à elle, __fait événement au sein de l'histoire à laquelle le lecteur/joueur s'est abonnée. Elle balise les différentes étapes de l'histoire et participe à la mise en intrigue de l'histoire. Elle permet de rediriger le/la _PoulpReader_ dans l’espace de lecture que vous, [PoulpBuilder](dico-du-poulp.md#poulpbuilder), souhaitez. 📚
 
 ![Distinguo entre notifiction et notification](.gitbook/assets/notifiction-notificationpou%20%281%29.jpg)
 
@@ -23,7 +31,7 @@ La _notifiction_ est ce qui fait événement dans votre histoire ! La _notificti
 * bonus
 * notifiction
 
-Diffusée sur smartphone, l'histoire qui est jouée au sein de la smartfiction que vous créez est semblable \(en terme de design\) au design d'interface et de navigation d'un smartphone.  Réalisé à partir de modèles d’applications similaires à celles présentes et utilisées au sein d’un smartphone, la construction d'un univers de fiction repose sur la mobilisation des différentes unités applicatives disponibles. Construit à partir de ces différentes unités applicatives \(applications - ici - fictives\), ci-suit une liste reprenant les différents usages qu’un utilisateur de smartphone effectuent au quotidien. Cette indexation est une liste non exhaustive des différentes ré-appropriations d'usages dans un contexte de production de fictions jouées sur smartphone.  
+Diffusée sur smartphone, l'histoire jouée au sein de la smartfiction est semblable \(en terme de design\) au design d'interface et de navigation d'un smartphone. Réalisée à partir de modèles d’applications similaires à celles présentes et utilisées au sein d’un smartphone, la construction d'un univers de fiction repose sur la mobilisation des différentes unités applicatives disponibles. Construit à partir de ces différentes unités applicatives \(applications - ici - fictives\), ci-suit une liste reprenant les différents usages qu’un utilisateur de smartphone effectuent au quotidien. Cette indexation est une liste non exhaustive des différentes ré-appropriations d'usages dans un contexte de production de fictions jouées sur smartphone.  
 
 
 **INDEXATION DES USAGES NUMÉRIQUES D'UN SMARTPHONE :** 

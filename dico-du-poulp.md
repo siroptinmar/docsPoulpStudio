@@ -40,13 +40,13 @@ Le concept n'est pas bien compliqué à comprendre. Vous voyez une notification 
 
 Je vous aurai bien fait un dessin mais j'ai été recalé à la cession des beaux arts... Je plaisante ! Le Personnage Joueur est le personnage que vous créez pour permettre à PoulpReader de visiter, jouer, lire l'histoire que vous avez construit. Lorsque PoulpReader s'abonne à une histoire, il incarne le rôle d'un personnage, il visite l'histoire à la première personne \(Je, je vous donne la réponse pour les cancres en grammaire française 🧐\) 
 
- personnage + poulpreader = Personnage Joueur 
+ personnage + poulpReader = Personnage Joueur 
 
 ### Personnage Non Joueur :
 
 Et bien c'est le personnage qui ne joue pas. C'est le personnage qui n'est pas incarné par Poulpreader, c'est l'autre ^^. 
 
-personnage - poulpreader = Personnage Non Joueur 
+personnage - poulpReader = Personnage Non Joueur 
 
 ## ENVIRONNEMENT DE JEU 
 
