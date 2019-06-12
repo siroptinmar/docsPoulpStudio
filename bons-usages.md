@@ -106,13 +106,11 @@ La création d'un personnage commence avec la création de son identité. Elle s
 
 ![capture d&apos;&#xE9;cran du champ &#xE9;ditorial d&apos;un personnage](.gitbook/assets/construction-perso.jpg)
 
-Une fois les différents champs d'informations remplis, validez la création de votre personnage ! Ça y est 😊votre personnage est prêt à être mis en jeu dans les différentes unités applicatives dédiées. 
+Une fois les différents champs d'informations remplis, validez la création de votre personnage ! Ça y est 😊votre personnage est prêt à être mis en jeu dans les différents espaces applicatifs fictifs dédiées. 
 
-**Le petit + ;-\)**
+🎁**Le petit + ;-\)** 
 
-Construit au sein d'un environnement numérique, les petits poulps qui ont construits PoulpStudio ont joué des codes numérique que nous utilisons au sein 
-
- comme dans ljouant avec les codes usuels et communicationnels, l'inscription du pseudo de votre personnage \(exemple : @Pseudoduperso\) permet de l'identifier au sein de l'ensemble de l'environnement de vie virtuelle. Cette identification facilite la création de _fanfiction_ mettant en jeu le personnage que vous avez créé. Les PoulpReaders peuvent également documenter ou commenter votre personnage au sein des diverses discussions entretenues entre eux, faisant vivre votre personnage en dehors de la smartfiction. 
+Construit au sein d'un environnement numérique, les petits poulps qui ont construits PoulpStudio ont pensé à vous PoulpBuilders !  Grâce à l'inscription de votre personnage via un pseudo \(exemple : @Pseudoduperso\) ce petit bijou de la technologie vous permet de l'identifier au sein de l'ensemble de l'environnement de vie virtuelle. Cette identification facilite la création de _fanfiction_ pour que les PoulpReaders puissent à leur tour mettre en jeu le personnage que vous avez créé. Les PoulpReaders pourront également documenter ou commenter votre personnage au sein des diverses discussions entretenues entre eux, faisant vivre votre personnage en dehors de la smartfiction. 
 
 ### L'environnement de jeu 
 
