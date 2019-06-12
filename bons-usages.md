@@ -139,7 +139,9 @@ Elle est également celle qui permet au PoulpReader de pouvoir lire/jouer à nou
 
 La notifiction comprend deux modes de jeu : la notifiction externe et la notifiction interne. 
 
+Vous allez voir, pas besoin d'avoir fait math sup pour comprendre le concept ^^. Alors, la notifiction externe est utilisée pour inviter PoulpReader à revenir lire/jouer l'histoire. Il reçoit ce type de notif lorsqu'il a quitté la smartfiction.
 
+La notifiction interne permet de dynamiser l'histoire. Alors que PoulpReader est en train de lire tranquillement l'histoire que vous lui avez concocté  🚨BIM 🚨 une notifction s'affiche sur son écran de smartphone pour le rediriger dans un autre espace de lecture, dans une autre application fictive que vous avez mise en jeu.  Effet de surprise garanti 😉
 
 ![](.gitbook/assets/poulpnotif.png)
 
