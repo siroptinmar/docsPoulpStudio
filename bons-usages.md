@@ -31,7 +31,11 @@ Parlons sérieusement un moment ou plus justement, parlons solennellement, le co
 * bonus
 * notifiction
 
-Diffusée sur smartphone, l'histoire jouée au sein de la smartfiction est semblable \(en terme de design\) au design d'interface et de navigation d'un smartphone. Réalisée à partir de modèles d’applications similaires à celles présentes et utilisées au sein d’un smartphone, la construction d'un univers de fiction repose sur la mobilisation des différentes unités applicatives disponibles. Construit à partir de ces différentes unités applicatives \(applications - ici - fictives\), ci-suit une liste reprenant les différents usages qu’un utilisateur de smartphone effectuent au quotidien. Cette indexation est une liste non exhaustive des différentes ré-appropriations d'usages dans un contexte de production de fictions jouées sur smartphone.  
+Diffusée sur smartphone, l'histoire jouée au sein de la smartfiction est semblable \(en terme de design\) au design d'interface et de navigation d'un smartphone. Réalisée à partir de modèles d’applications similaires à celles présentes et utilisées au sein d’un smartphone, la construction d'un univers de fiction repose sur la mobilisation des différentes unités applicatives disponibles.
+
+![capture d&apos;&#xE9;cran des mod&#xE8;les applicatifs &#xE0; utiliser pour construire la smartfiction ](.gitbook/assets/unites-applicatives.jpg)
+
+Construit à partir de ces différentes unités applicatives \(applications - ici - fictives\), ci-suit une liste reprenant les différents usages qu’un utilisateur de smartphone effectuent au quotidien. Cette indexation est une liste non exhaustive des différentes ré-appropriations d'usages dans un contexte de production de fictions jouées sur smartphone.  
 
 
 **INDEXATION DES USAGES NUMÉRIQUES D'UN SMARTPHONE :** 
