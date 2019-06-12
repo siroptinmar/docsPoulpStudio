@@ -4,16 +4,17 @@ description: 'PoulpStudio est une méthodologie de travail, non un  outil techni
 
 # Bons Usages
 
-## Petits tips sur les bons usages de PoulpStudio 
+## Les bons usages de PoulpStudio 
 
-Avec PoulpStudio, créez des smartfictions interactives, multijoueurs ! Les _PoulpReaders_ font des choix pour définir leur propre parcours de lecture. Diffusée sur smartphone, le/la _PoulpReader_ progresse dans sa lecture au rythme des _notifictions_ qu’il.elle reçoit.
+Avec PoulpStudio, créez des [smartfictions](dico-du-poulp.md#smartfiction) interactives, multijoueur ! Les [_PoulpReaders_](dico-du-poulp.md#poulpreader) font des choix pour définir leur propre parcours de lecture. Diffusée sur smartphone, le/la _PoulpReader_ progresse dans sa lecture au rythme des [_notifictions_ ](dico-du-poulp.md#notifiction)qu’il.elle reçoit.
 
 **Qu'est-ce qu'une** _**notifiction**_ **@PoulpWik 🎓 ?** 
 
-La _notifiction_ est ce qui fait événement dans votre histoire ! La _notifiction_ est la contraction de deux termes : "notification" et de "fiction". Techniquement, la _notifiction_ a les mêmes propriétés qu’une notification mais son emploi n’est pas le même. La notifcation fait événement dans le milieu réel alors que la _notifiction_ fait événement dans le milieu fictif. Elle permet de rediriger le/la _PoulpReader_ dans l’espace de lecture que vous souhaitez.  
+La _notifiction_ est ce qui fait événement dans votre histoire ! La _notifiction_ est la contraction de deux termes : "notification" et de "fiction". Techniquement, la _notifiction_ a les mêmes propriétés qu’une notification mais son emploi n’est pas le même. La notifcation fait événement dans mon smartphone. Elle me rappelle les différentes événements que j'ai programmés ou auxquels je me suis inscrit.e. La _notifiction_ quant à elle, __fait événement au sein de l'histoire à laquelle le lecteur/joueur s'est abonnée. Elle balise les différentes étapes de l'histoire et participe à la mise en intrigue de l'histoire. Elle permet de rediriger le/la _PoulpReader_ dans l’espace de lecture que vous, créateur.rice, souhaitez.
 
+![Distinguo entre notifiction et notification](.gitbook/assets/notifiction-notificationpou%20%281%29.jpg)
 
-### Avec PoulpStudio 
+### Avec PoulpStudio : 
 
 * production d’un scénario complexe
 * conditionnalité
@@ -22,7 +23,7 @@ La _notifiction_ est ce qui fait événement dans votre histoire ! La _notificti
 * bonus
 * notifiction
 
-La création de l’univers de fiction étant réalisée à partir de modèles d’applications similaires aux applications utilisées au sein d’un smartphone, une liste reprenant les différents usages qu’un utilisateur de smartphone effectuent au quotidien est exposée ci-dessous. Cette indexation illustre les différentes ré-appropriations de ces usages dans un contexte de production de fictions jouées sur smartphone.  
+Diffusée sur smartphone, l'histoire qui est jouée au sein de la smartfiction que vous créez est semblable \(en terme de design\) au design d'interface et de navigation d'un smartphone.  Réalisé à partir de modèles d’applications similaires à celles présentes et utilisées au sein d’un smartphone, la construction d'un univers de fiction repose sur la mobilisation des différentes unités applicatives disponibles. Construit à partir de ces différentes unités applicatives \(applications - ici - fictives\), ci-suit une liste reprenant les différents usages qu’un utilisateur de smartphone effectuent au quotidien. Cette indexation est une liste non exhaustive des différentes ré-appropriations d'usages dans un contexte de production de fictions jouées sur smartphone.  
 
 
 **INDEXATION DES USAGES NUMÉRIQUES D'UN SMARTPHONE :** 
@@ -79,17 +80,27 @@ La création de l’univers de fiction étant réalisée à partir de modèles d
 | augmenter... |
 | actualiser... le contenu de son smartphone \(paramètre de configuration ou appStore/GooglePlay |
 
-Ces usages sont des pratiques ordinaires qui peuvent être réinvesties dans le cadre d’une création d’un univers de fiction au format smarfictif. Le support de lecture conditionnant la narration, il est pertinent d’utiliser la technologie et la pratique usuelle du smartphone réelle dans un univers de fiction. Comment créer cet univers de fiction ? 
+Ces usages relèvent de ce que l'on appelle des "pratiques ordinaires". Elles peuvent être réinvesties dans le cadre d’une création d’un univers de fiction au format smarfictif. Le support de lecture conditionnant la narration, il est pertinent d’utiliser la technologie et la pratique usuelle du smartphone réelle dans un univers de fiction. Autrement dit, comment en tant que créateur.rice, je m'approprie le smartphone comme objet participant pleinement à la construction et à la réception de l'histoire que je souhaite créer ? Comment construire cet univers de fiction ? 
 
 ## LA CRÉATION D'UNE SMARTFICTION 
 
 Elle repose sur la création de trois éléments participant à la construction de votre histoire : personnage, environnement de jeu et _notifiction._ 
 
-### La conception d'un personnage
+### Le personnage
 
 La création de votre personnage est la création d’une identité fictive évoluant dans l’histoire que vous souhaitez écrire et partager avec les PoulpReaders.
 
-L’identité d’un personnage se fait par l’inscription d’un pseudo, d’une représentation graphique, de son âge et d’une brève description. Une fois ces différents champs d'informations rempli, vous pouvez mettre en jeu votre personnage
+La création d'un personnage commence avec la création de son identité. Elle se fait par l’inscription d’un pseudo, d'un nom, d'un prénom, d’une représentation graphique \(photo de profil, par exemple\), de son âge et d’une brève description. 
+
+![capture d&apos;&#xE9;cran du champ &#xE9;ditorial d&apos;un personnage](.gitbook/assets/construction-perso.jpg)
+
+Une fois les différents champs d'informations remplis, validez la création de votre personnage ! Ça y est 😊votre personnage est prêt à être mis en jeu dans les différentes unités applicatives dédiées. 
+
+**Le petit + ;-\)**
+
+Construit au sein d'un environnement numérique, les petits poulps qui ont construits PoulpStudio ont joué des codes numérique que nous utilisons au sein 
+
+ comme dans ljouant avec les codes usuels et communicationnels, l'inscription du pseudo de votre personnage \(exemple : @Pseudoduperso\) permet de l'identifier au sein de l'ensemble de l'environnement de vie virtuelle. Cette identification facilite la création de _fanfiction_ mettant en jeu le personnage que vous avez créé. Les PoulpReaders peuvent également documenter ou commenter votre personnage au sein des diverses discussions entretenues entre eux, faisant vivre votre personnage en dehors de la smartfiction. 
 
 ### L'environnement de jeu 
 

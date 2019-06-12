@@ -1,8 +1,14 @@
+---
+description: L'origine de Poulp...
+---
+
 # Poulp, the story
 
-**\#PoulpStudio** est le résultat d’un travail de recherche et de développement mené autour des nouvelles écritures et des nouvelles manières de créer des univers de fictions interactives, multijoueurs et à choix multiples.
+**\#PoulpStudio** est le résultat d’un travail de recherche et de développement mené autour des nouvelles écritures et des nouvelles manières de créer des univers de fictions interactives, multijoueur et à choix multiples.
 
-Ces temps de recherche ont été nourris par une expérience de terrain menée dans le cadre d’ateliers d’écriture numérique avec le jeune public \(scolaire\), le public intergénérationnel et des entretiens utilisateurs. Ces entretiens nous ont permis de récolter leurs usages numériques et leurs retours d’expérience de lecture suite à la création de fictions interactives réalisées dans le cadre des ateliers. 
+D'abord pensées pour être lues sur les réseaux sociaux, les fictions interactives ont ensuite fait l'objet d'un travail de recherche et de développement pour être lues exclusivement sur smartphone. L'enjeu de ce type de création artistique est d'interroger le support de diffusion \(📲\) pour en faire un moteur narratif. Autrement dit, comment je crée de la fiction tout en prenant en compte l'ensemble des possibles technologiques, artistiques et scientifiques offertes par le smartphone ? Cette problématisation a été le fil rouge de la réflexion menée pendant les temps de recherche et de développement.
+
+La réflexion a été complémentée par un travail de terrain mené dans le cadre d’ateliers d’écriture numérique avec le jeune public \(scolaire\), le public intergénérationnel et des entretiens utilisateurs. Ces entretiens nous ont permis de récolter leurs usages numériques et leurs retours d’expérience de lecture suite à la création de fictions interactives réalisées dans le cadre des ateliers. 
 
 ![](.gitbook/assets/poulpin.png)
 
@@ -13,7 +19,7 @@ Ces ateliers ont été menés par :
 * Christelle Derré : artiste transmédia
 * Sofie Daigne : administration 
 
-Les savoir-faire et les sensibilités de chacun composant ce trio ont permis de porter un regard complémentaire sur ce type de création numérique via leur expertise scientifique, artistique et technique. Cette expertise a ensuite été complétée par les membres de @PoulpTeam lors de la phase de développement.  
+Les savoir-faire et les sensibilités de chacun composant ce trio ont permis de porter un regard complémentaire sur ce type de création numérique via leur expertise technologique, scientifique, artistique. Cette expertise a ensuite été complétée par les membres de @PoulpTeam lors de la phase de développement.  
 
 **@PoulpTeamp :**
 
