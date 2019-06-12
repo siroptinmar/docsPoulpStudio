@@ -8,7 +8,7 @@ description: >-
 
 ## Les bons usages de PoulpStudio 
 
-En bon petits poulps que nous sommes, nous vous avons concocté une petite encyclopédie poulpienne que vous pourrez transmettre de parents en enfants pour raconter les différents récits de l'humanité !  😒Bon, après si vous ne souhaitez pas raconter l'histoire de l'humanité, vous pouvez aussi lire ce petit guide pour vous accompagner dans la production de l'histoire que vous souhaitez partager avec d'autres personnes que votre grand-mère, par exemple. En plus, le temps qu'elle comprenne comment fonctionne un smartphone... alors si elle doit capter que l'histoire est diffusée sur smartphone, vous n'avez pas fini...  Bref, ne divergeons pas ! Un monde est à construire 🚧🏗
+En bon petits poulps que nous sommes, nous vous avons concocté une petite encyclopédie poulpienne que vous pourrez transmettre de parents en enfants pour raconter les différents récits de l'humanité ! 😒Bon, après si vous ne souhaitez pas raconter l'histoire de l'humanité, vous pouvez aussi lire ce petit guide pour vous accompagner dans la production de l'histoire que vous souhaitez partager avec d'autres personnes que votre grand-mère, par exemple. En plus, le temps qu'elle comprenne comment fonctionne un smartphone... alors si elle doit capter que l'histoire est diffusée sur smartphone, vous n'avez pas fini...  Bref, ne divergeons pas ! Un monde est à construire 🚧🏗
 
 **C'est parti pour le jingle :** 
 
@@ -35,7 +35,7 @@ Diffusée sur smartphone, l'histoire jouée au sein de la smartfiction est sembl
 
 ![capture d&apos;&#xE9;cran des mod&#xE8;les applicatifs &#xE0; utiliser pour construire la smartfiction ](.gitbook/assets/unites-applicatives.jpg)
 
-Construit à partir de ces différentes unités applicatives \(applications - ici - fictives\), ci-suit une liste reprenant les différents usages qu’un utilisateur de smartphone effectuent au quotidien. Cette indexation est une liste non exhaustive des différentes ré-appropriations d'usages dans un contexte de production de fictions jouées sur smartphone.  
+L'univers de fiction étant construit à partir de ces différentes unités applicatives \(applications - ici - fictives\), ci-suit une liste reprenant les différents usages qu’un utilisateur de smartphone effectuent au quotidien. Cette indexation est une liste non exhaustive des différentes ré-appropriations d'usages dans un contexte de production de fictions jouées sur smartphone.  
 
 
 **INDEXATION DES USAGES NUMÉRIQUES D'UN SMARTPHONE :** 
@@ -92,15 +92,15 @@ Construit à partir de ces différentes unités applicatives \(applications - ic
 | augmenter... |
 | actualiser... le contenu de son smartphone \(paramètre de configuration ou appStore/GooglePlay |
 
-Ces usages relèvent de ce que l'on appelle des "pratiques ordinaires". Elles peuvent être réinvesties dans le cadre d’une création d’un univers de fiction au format smarfictif. Le support de lecture conditionnant la narration, il est pertinent d’utiliser la technologie et la pratique usuelle du smartphone réelle dans un univers de fiction. Autrement dit, comment en tant que créateur.rice, je m'approprie le smartphone comme objet participant pleinement à la construction et à la réception de l'histoire que je souhaite créer ? Comment construire cet univers de fiction ? 
+Ces usages relèvent de ce que l'on appelle des "pratiques ordinaires".  Elles sont le théâtre de la smartfiction. Il faut jouer avec le support de diffusion qu'est le smartphone. Sinon, pourquoi utiliser ce support de diffusion ?  Bande de PoulpBuilders, vous devez vous poser la question suivante : comment s'approprier le smartphone comme objet participant pleinement à la construction et à la réception de l'histoire que je souhaite créer ?
 
 ## LA CRÉATION D'UNE SMARTFICTION 
 
-Elle repose sur la création de trois éléments participant à la construction de votre histoire : personnage, environnement de jeu et _notifiction._ 
+La smartfiction repose sur la création de trois éléments : personnage, environnement de jeu et _notifiction._ Chacun de ces éléments est construit selon une une logique de ~~pensée empruntée à ... vie numérique.~~
 
 ### Le personnage
 
-La création de votre personnage est la création d’une identité fictive évoluant dans l’histoire que vous souhaitez écrire et partager avec les PoulpReaders.
+La création de votre personnage est la création d’une identité fictive que vous devez faire évoluer dans l’histoire.
 
 La création d'un personnage commence avec la création de son identité. Elle se fait par l’inscription d’un pseudo, d'un nom, d'un prénom, d’une représentation graphique \(photo de profil, par exemple\), de son âge et d’une brève description. 
 
