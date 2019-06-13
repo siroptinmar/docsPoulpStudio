@@ -10,6 +10,13 @@ description: "Oui parce que l'on veut être sûrs que vous avez tout bien compri
 
 Dans votre shaker de création, prenez un smartphone, une fiction, secouez bien le tout ! Et vous obtenez une smarfiction ! Pas plus compliqué que ça. Sinon on peut aussi dire que c'est une fiction interactive à lire sur smartphone pour faire un peu plus comme Jean-Eude 🤓
 
+### 4 catégories de Smartfictions:
+
+*  **ChartStories** : idéal pour écrire l'histoire de "Brandon" et de "Brenda" via un dialogue mis en jeu au sein d'un fil de discussion instantanée \(type SMS, _What's app_,  _Messenger_\)
+* **LostPhone :** 
+* **PhoneFiction :**
+* **MediaFiction :**
+
 ### Mode multijoueur : 
 
 Une fois abonné.e à l'histoire, PoulpReader peut inviter un.e ami.e pour partager une expérience de lecture unique ! Ensemble, PoulpReaders visiteront des contrées fictives palpitantes, angoissantes, heureuses... Bon ça c'est si il ou elle a des amis... L'ensemble de l'équipe de Poulp, présente ses plus plates excuses mais elle ne fournit pas les amis. 😇
