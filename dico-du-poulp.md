@@ -12,13 +12,13 @@ Dans votre shaker de création, prenez un smartphone, une fiction, secouez bien 
 
 ### 4 catégories de Smartfictions:
 
-**😘🥰ChartStories** : modèle d'écriture idéal pour produire l'histoire de "Brandon" et de "Brenda" via un dialogue mis en jeu au sein d'un fil de discussion instantanée \(type SMS, _What's app_,  _Messenger_\)
+**😘🥰ChatStories** : modèle d'écriture idéal pour produire l'histoire de "Brandon" et de "Brenda" via un dialogue mis en jeu au sein d'un fil de discussion instantanée \(type SMS, _What's app_,  _Messenger_\)
 
 **😱LostPhone :** en téléchargeant ce type de smartfiction, PoulpReader se retrouve en possession d'un smartphone perdu. PoulpReader ijoue le rôle d'un "Sherlock Holmes du smartphone" puisqu'il doit visiter l'ensemble des applications fictives présentes au sein de ce smartphone fictif pour découvrir ce qui s'est passé pour le ou la propriétaire du smartphone.  ****
 
-**📱📲PhoneFiction :** Histoire interactive à lire sur smartphone en prêtant une attention particulière au design d'interface, similaire à celui d'un smartphone fictif.
+**📱📲PhoneFiction :** Histoire interactive à lire sur smartphone en prêtant une attention particulière au design d'interface, similaire à celui d'un smartphone fictif. PoulpReader retrouvera également un design de navigation/d'interaction similaire à celui d'un smartphone.
 
-**🎬🔈👀MediaFiction :** Histoire interactive à lire sur smartphone mais donc la pratique usuelle et le design d'interface n'est pas similaire à celui d'un smartphone.
+**🎬🔈👀MediaFiction :** Histoire interactive à lire sur smartphone mais dont le design de navigation et le design d'interface ne sont pas similaires à ceux d'un smartphone.
 
 ### Mode multijoueur : 
 
