@@ -137,11 +137,13 @@ Elle est également celle qui permet au PoulpReader de pouvoir lire/jouer à nou
 
 ![capture d&apos;&#xE9;cran de la notification donnant du pouvoir au Personnage Joueur ](.gitbook/assets/jouabilite-notifiction.png)
 
-La notifiction comprend deux modes de jeu : la notifiction externe et la notifiction interne. 
+La notifiction comprend deux modes de jeu : la **notifiction externe** et la **notifiction interne**. 
 
-Vous allez voir, pas besoin d'avoir fait math sup pour comprendre le concept ^^. Alors, la notifiction externe est utilisée pour inviter PoulpReader à revenir lire/jouer l'histoire. Il reçoit ce type de notif lorsqu'il a quitté la smartfiction.
+Rien de compliqué, juste une petite distinction terminologique \(attention mot de plus de 2 syllabes 🤯\) qui nous permet d'être plus pertinent dans la construction, structuration d'une histoire. 
 
-La notifiction interne permet de dynamiser l'histoire. Alors que PoulpReader est en train de lire tranquillement l'histoire que vous lui avez concocté  🚨BIM 🚨 une notifction s'affiche sur son écran de smartphone pour le rediriger dans un autre espace de lecture, dans une autre application fictive que vous avez mise en jeu.  Effet de surprise garanti 😉
+Alors, la **notifiction externe** est utilisée pour inviter PoulpReader à revenir lire/jouer l'histoire. Il reçoit ce type de notif lorsqu'il a quitté la smartfiction. S'il a quitté la smartfiction, c'est parce qu'il n'y avait plus rien à lire à ce moment là, il faut donc informer PoulpReader qu'il y a de nouveau du contenu à lire et à joueur au sein de la smartfiction. Pour l'inciter à revenir lire/joueur, il est conseillé de lui envoyer une notifction externe. Nous l'appelons notifiction externe, puisque PoulpReader la reçoit alors qu'il n'est plus en train de lire/jouer l'histoire, il est externe à l'histoire. 
+
+La **notifiction interne** permet de dynamiser l'histoire. Alors que PoulpReader est en train de lire tranquillement l'histoire que vous lui avez concocté  🚨BIM 🚨 une notifction s'affiche sur son écran de smartphone pour le rediriger dans un autre espace de lecture, dans une autre application fictive que vous avez mise en jeu. Effet de surprise garanti 😉. Nous l'appelons donc **notifiction interne** _****_ puisque PoulpReader la reçoit pendant son expérience de lecture, elle est donc interne à l'histoire.
 
 ![](.gitbook/assets/poulpnotif.png)
 
@@ -149,13 +151,15 @@ La notifiction interne permet de dynamiser l'histoire. Alors que PoulpReader est
 
 ![capture d&apos;&#xE9;cran et montage r&#xE9;alis&#xE9;s &#xE0; partir de la s&#xE9;rie interactive Bandersnatch \(Netflix\) ](https://lh6.googleusercontent.com/nPiKrJmoJcc8PLcMw7uuHe-1OPESiUjXN76TIaoALAgpWzhFyqtOEnCkwGnBSH44gJNCXtf7sd7nWaT17KruMtB2EoMqWzHt2UCbcEduhqhj1n_FqIEaAgLrvUfd1oz9kowmVocm)
 
-### Émetteur 
+### Le lecteur/joueur comme émetteur de contenu :
 
 ![Personnage Joueur - &#xE9;metteur de contenu ](.gitbook/assets/emetteur.png)
 
-Pour pouvoir progresser dans la lecture, PoulpReader doit interagir avec les éléments qui lui sont donnés à jouer. Valider des choix de lecture, répondre à des énigmes, envoyer des messages. 
+Pour pouvoir progresser dans la lecture, PoulpReader doit interagir avec les éléments qui lui sont donnés à jouer. Valider des choix de lecture, répondre à des énigmes, envoyer des messages \(pré-écrits et scénarisés par vos soins, PoulpBuilder 🙃\). PoulpReader est donc émetteur de contenus. Ce statut particulier du lecteur/joueur est particulier et doit donc être pris en compté dès l'écriture de votre histoire ! Quelle est la place du lecteur/joueur ? Comment reçoit-il l'histoire ? Est-ce qu'il incarne un rôle d'un personnage ? Ces différentes questions sont le fil rouge de l'écriture de votre scénario. 
 
-### Récepteur
+Par exemple, si PoulpReader lit une smartfiction de type [ChatStories](dico-du-poulp.md#chatstories) mettant en jeu un dialogue entre Spiderman et Superman, PoulpReader incarnera Superman pour recevoir les messages de Spiderman. Ainsi, dans la section "Personnages", vous devrez cocher "Personnage Joueur" concernant Superman pour que PoulpReader puisse incarne Superman. 
+
+### Le lecteur/joueur comme récepteur de contenu :
 
 ![Personnage Joueur - r&#xE9;cepteur de contenu](.gitbook/assets/recepteur.png)
 
