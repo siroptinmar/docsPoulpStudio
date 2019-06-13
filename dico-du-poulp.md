@@ -18,7 +18,7 @@ modèle d'écriture idéal pour produire l'histoire de "Brandon" et de "Brenda" 
 
 #### **😱LostPhone :** 
 
-**E**n téléchargeant ce type de smartfiction, PoulpReader se retrouve en possession d'un smartphone perdu. PoulpReader ijoue le rôle d'un "Sherlock Holmes du smartphone" puisqu'il doit visiter l'ensemble des applications fictives présentes au sein de ce smartphone fictif pour découvrir ce qui s'est passé pour le ou la propriétaire du smartphone.  ****
+**E**n téléchargeant ce type de smartfiction, PoulpReader se retrouve en possession d'un smartphone perdu. PoulpReader joue le rôle d'un "Sherlock Holmes" **🕵️‍♀️🕵️‍♂️** du smartphone" puisqu'il doit visiter l'ensemble des applications fictives présentes au sein de ce smartphone fictif pour découvrir ce qui s'est passé pour le ou la propriétaire du smartphone.  ****
 
 #### **📱📲PhoneFiction :** 
 

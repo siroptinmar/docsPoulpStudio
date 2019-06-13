@@ -8,7 +8,7 @@ description: >-
 
 ## Les bons usages de PoulpStudio 
 
-En bon petits poulps que nous sommes, nous vous avons concocté une petite encyclopédie poulpienne que vous pourrez transmettre de parents en enfants pour raconter les différents récits de l'humanité ! 😒Bon, après si vous ne souhaitez pas raconter l'histoire de l'humanité, vous pouvez aussi lire ce petit guide pour vous accompagner dans la production de l'histoire que vous souhaitez partager avec d'autres personnes que votre grand-mère, par exemple. En plus, le temps qu'elle comprenne comment fonctionne un smartphone... alors si elle doit capter que l'histoire est diffusée sur smartphone, vous n'avez pas fini...  Bref, ne divergeons pas ! Un monde est à construire 🚧🏗
+En bon petits Poulps que nous sommes, nous vous avons concocté une petite encyclopédie poulpienne que vous pourrez transmettre de parents en enfants pour raconter les différents récits de l'humanité ! 😜Bon, après si vous ne souhaitez pas raconter l'histoire de l'humanité, vous pouvez aussi lire ce petit guide pour vous accompagner dans la production de l'histoire que vous souhaitez partager avec d'autres personnes que votre grand-mère, par exemple. En plus, le temps qu'elle comprenne comment fonctionne un smartphone... alors si elle doit capter que l'histoire est diffusée sur smartphone, vous n'avez pas fini...  Bref, ne divergeons pas ! Un monde est à construire 🚧🏗
 
 **C'est parti pour le jingle :** 
 
@@ -92,11 +92,11 @@ L'univers de fiction étant construit à partir de ces différentes unités appl
 | augmenter... |
 | actualiser... le contenu de son smartphone \(paramètre de configuration ou appStore/GooglePlay |
 
-Ces usages relèvent de ce que l'on appelle des "pratiques ordinaires".  Elles sont le théâtre de la smartfiction. Il faut jouer avec le support de diffusion qu'est le smartphone. Sinon, pourquoi utiliser ce support de diffusion ?  Bande de PoulpBuilders, vous devez vous poser la question suivante : comment s'approprier le smartphone comme objet participant pleinement à la construction et à la réception de l'histoire que je souhaite créer ?
+Ces usages relèvent de ce que l'on appelle des "pratiques ordinaires".  Elles sont le théâtre de la smartfiction. Il faut jouer avec le support de diffusion qu'est le smartphone. Sinon, pourquoi utiliser ce support de diffusion ?  Bande de PoulpBuilders, vous devez vous poser les questions : Qu'est ce que cela m'apporte de construire une histoire à partir de l'outil smartphone ? Qu'est-ce que ça motive dans l'écriture d'une fiction, le fait de construire une histoire pour qu'elle soit lue sur smartphone ? Comment l'histoire \(en terme de structuration, de construction\) est reçue par les PoulpReaders ? Pour l'ensemble de ces questions, quelques éléments de réponse...
 
 ## LA CRÉATION D'UNE SMARTFICTION 
 
-La smartfiction repose sur la création de trois éléments : personnage, environnement de jeu et _notifiction._ Chacun de ces éléments est construit selon une une logique de ~~pensée empruntée à ... vie numérique.~~
+La smartfiction repose sur la création de trois éléments : personnage, environnement de jeu et _notifiction._ C'est parti pour un tour du propriétaire des éléments dont vous avez besoin pour construire le monde fictif que vous souhaitez partager avec les PoulpReaders. 👀
 
 ### Le personnage
 
@@ -106,7 +106,13 @@ La création d'un personnage commence avec la création de son identité. Elle s
 
 ![capture d&apos;&#xE9;cran du champ &#xE9;ditorial d&apos;un personnage](.gitbook/assets/construction-perso.jpg)
 
-Une fois les différents champs d'informations remplis, validez la création de votre personnage ! Ça y est 😊votre personnage est prêt à être mis en jeu dans les différents espaces applicatifs fictifs dédiées. 
+Une fois les différents champs d'informations remplis, validez la création de votre personnage ! Attention, veillez à déterminer si votre personnage est Personnage Joueur ou Personnage Non Joueur, cela a un impact sur la construction et la réception de votre histoire. 
+
+Si le personnage est \[Personnage Joueur\], cela signifie que PoulpReader incarne le rôle du personnage et c'est via ce personnage que PoulpReader accède à la smartfiction. Il visite le monde fictif à la première personne.  
+
+Si le personnage est \[Personnage Non Joueur\] cela signifie que le personnage n'est pas incarné par PoulReader. Il est un personnage participant à la construction et à la dynamique de l'histoire. Il peut être également interlocuteur du \[Personnage Joueur\]. 
+
+Une fois que avez veillé à remplir l'ensemble des informations concernant votre personnage et statué en tant que \[Personnage Joueur\] ou \[Personnage Non Joueur\], vous êtes prêt le mettre  en jeu dans les différents espaces applicatifs fictifs dédiées. 🙌
 
 🎁**Le petit + ;-\)** 
 
