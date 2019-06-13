@@ -8,15 +8,13 @@ description: >-
 
 ## Les bons usages de PoulpStudio 
 
-En bon petits Poulps que nous sommes, nous vous avons concocté une petite encyclopédie poulpienne que vous pourrez transmettre de parents en enfants pour raconter les différents récits de l'humanité ! 😜Bon, après si vous ne souhaitez pas raconter l'histoire de l'humanité, vous pouvez aussi lire ce petit guide pour vous accompagner dans la production de l'histoire que vous souhaitez partager avec d'autres personnes que votre grand-mère, par exemple. En plus, le temps qu'elle comprenne comment fonctionne un smartphone... alors si elle doit capter que l'histoire est diffusée sur smartphone, vous n'avez pas fini...  Bref, ne divergeons pas ! Un monde est à construire 🚧🏗
+En bon petits Poulps que nous sommes, nous vous avons concocté une petite encyclopédie poulpienne que vous pourrez transmettre de parents en enfants pour raconter les différents récits de l'humanité ! 😜Bon, après si vous ne souhaitez pas raconter l'histoire de l'humanité, vous pouvez aussi lire ce petit guide pour vous accompagner dans la production de l'histoire. Soyez prêt.e.s... un monde est à construire 🚧🏗
 
 **C'est parti pour le jingle :** 
 
  🎙Avec PoulpStudio, créez des [smartfictions](dico-du-poulp.md#smartfiction) interactives, multijoueur ! [_PoulpReaders_](dico-du-poulp.md#poulpreader)  définissent leur propre parcours de lecture en sélectionnant tel ou tel choix de scénario. Diffusée sur smartphone, _PoulpReader_ parcourt l'histoire et progresse dans sa lecture au rythme des [_notifictions_ ](dico-du-poulp.md#notifiction)reçues. 🎙
 
 **Qu'est-ce qu'une** _**notifiction**_ **@PoulpWik 🎓 ?** 
-
-Parlons sérieusement un moment ou plus justement, parlons solennellement, le coeur sur la main \(un peu à la Bernard Pivot\) : 
 
 📚La _notifiction_ est ce qui fait événement dans votre histoire ! La _notifiction_ est la contraction de deux termes : "notification" et de "fiction". Techniquement, la _notifiction_ a les mêmes propriétés qu’une notification mais son emploi n’est pas le même. La notifcation fait événement dans mon smartphone. Elle me rappelle les différents événements que j'ai programmés ou auxquels je me suis inscrit.e. La _notifiction_ quant à elle, __fait événement au sein de l'histoire à laquelle le lecteur/joueur s'est abonnée. Elle balise les différentes étapes de l'histoire et participe à la mise en intrigue de l'histoire. Elle permet de rediriger le/la _PoulpReader_ dans l’espace de lecture que vous, [PoulpBuilder](dico-du-poulp.md#poulpbuilder), souhaitez. 📚
 
