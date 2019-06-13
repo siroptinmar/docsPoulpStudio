@@ -178,14 +178,15 @@ En tant que PoulpReader, le public reçoit votre histoire telle que vous \(Poulp
 
 ## Jeux de langage
 
-En contexte numérique, les jeux de langage repose sur une articulation des usages sociaux et de la scénarisation de l'histoire que vous souhaitez partagez avec vos lecture. Autrement dit, les jeux de langage révèlent les pratiques usuelles d'un usager numérique dans un contexte de production d'un projet artistique. 
+Qui dit construction d'un monde, dit appropriation, construction d'un langage. ici, comme nous sommes dans un contexte numériques, des usages culturels et sociaux sont déjà à identifier et et à réinvestir dans le cadre d'une production de fiction. La brigade du Poulp a relevé quelques jeux de langages : 
 
 * T9 
 * langage sms 
-* lapsus technologique --&gt; complicité avec le lecteur 
-* lettres en capitales \(traduction d'une émotion en contexte\) 
-* utilisation emoji pour scénariser une émotion, un état, une humeur. Complicité avec le lecteur. 
-* utilisation des \# 
+* lapsus technologique \(vous savez quand le correcteur automatique a décidé d'écrire autre chose que ce que vous vous avez décidé d'écrire 😒\) 
+* les messages que nous écrivons lorsque nous sommes un peu éméché et qui donne _"jsuuiiss prr ess k aarivÉ"_ \(ne faites pas l'nnocent.e derrière votre écran, on l'a tous fait😇\) 
+* utiliser les lettres en capitales pour exprimer une joie intense, un énervement, etc.  \(_"MAIS QU'EST\_CE TU FAIS ?!!? ON T'ATTEND !!!!!"_, par exemple\) 
+* utiliser les emoji pour contextualiser une émotion, un état, une humeur. Une petite complicité avec le lecteur/joueur s'installe.
+* utiliser les \[\#\] pour révéler les mots clés d'un article ou, dans le cadre d'un SMS ou d'un post ou d'un commentaire, exprimer une ironie. _"Il fait super beau dans le nord !" \#sunshine \#NordBeach \#tristesse_
 
 ##  
 
