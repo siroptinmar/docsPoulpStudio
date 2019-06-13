@@ -1,5 +1,8 @@
 ---
-description: L'origine de Poulp...
+description: >-
+  L'origine de Poulp... ATTENTION ⚠️ Le contenu que vous vous apprêtez à lire
+  est d'une sériosité sans nom. Âme sensible, veuillez vous reporter à la
+  section [Bons Usages] si c'est trop pour vous...
 ---
 
 # Poulp, the story
