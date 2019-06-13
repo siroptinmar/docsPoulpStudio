@@ -120,7 +120,7 @@ Construit au sein d'un environnement numérique, les petits poulps qui ont const
 
 ### L'environnement de jeu 
 
-~~**Il repose sur les modèle**~~s applicatifs intégrés au sein de PoulpStudio. Ils sont les environnements de jeu où se déroule l’histoire. Chaque modèle applicatif met en jeu une séquence. Les modèles sont :
+Pour construire l'environnement de jeu, vous avez à votre disposition différents modèles d'application fictives. Ces différents modèles sont :
 
 | Modèles Applicatifs |
 | :---: |
@@ -130,8 +130,11 @@ Construit au sein d'un environnement numérique, les petits poulps qui ont const
 | feed |
 | playlist |
 | album photo  |
+| vidéo |
 
-C’est en utilisant ces différents modèles d’environnement de jeu que vous créez votre histoire en y faisant évoluer vos personnages.  
+
+
+Chaque modèle d'application met en jeu une séquence. C’est en utilisant ces différents modèles d’environnement de jeu que vous créez votre histoire en y faisant évoluer vos personnages.  
 
 ### La notifiction 
 
@@ -163,7 +166,11 @@ La **notifiction interne** permet de dynamiser l'histoire. Alors que PoulpReader
 
 Pour pouvoir progresser dans la lecture, PoulpReader doit interagir avec les éléments qui lui sont donnés à jouer. Valider des choix de lecture, répondre à des énigmes, envoyer des messages \(pré-écrits et scénarisés par vos soins, PoulpBuilder 🙃\). PoulpReader est donc émetteur de contenus. Ce statut particulier du lecteur/joueur est particulier et doit donc être pris en compté dès l'écriture de votre histoire ! Quelle est la place du lecteur/joueur ? Comment reçoit-il l'histoire ? Est-ce qu'il incarne un rôle d'un personnage ? Ces différentes questions sont le fil rouge de l'écriture de votre scénario. 
 
-Par exemple, si PoulpReader lit une smartfiction de type [ChatStories](dico-du-poulp.md#chatstories) mettant en jeu un dialogue entre Spiderman et Superman, PoulpReader incarnera Superman pour recevoir les messages de Spiderman. Ainsi, dans la section "Personnages", vous devrez cocher "Personnage Joueur" concernant Superman pour que PoulpReader puisse incarne Superman. 
+Par exemple, si PoulpReader lit une smartfiction de type [ChatStories](dico-du-poulp.md#chatstories) mettant en jeu un dialogue entre Spiderman et Superman, PoulpReader incarnera Superman pour recevoir les messages de Spiderman. Ainsi, dans la section "Personnages", vous devrez cocher "Personnage Joueur" concernant Superman pour que PoulpReader puisse incarner Superman.
+
+ 
+
+![](.gitbook/assets/choix-lecture.jpg)
 
 ### Le lecteur/joueur comme récepteur de contenu :
 
