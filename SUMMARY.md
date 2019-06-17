@@ -8,4 +8,6 @@
 * [Team](team.md)
 * [Gestionnaires de fichiers](gestionnaires-de-fichiers.md)
 * [Dico du Poulp ;-\)](dico-du-poulp.md)
+* [Dynamiser la communauté](dynamiser-la-communaute.md)
+* [RoadMap de Poulp](roadmap-de-poulp.md)
 
