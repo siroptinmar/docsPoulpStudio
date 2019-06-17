@@ -1,19 +1,33 @@
+---
+description: Construire l'univers de fiction
+---
+
 # Story
 
 ## Créer mon histoire - 3 vues 
 
 ### Créer mon chapitre
 
+* ajouter un chapitre 
+* conditionnalité 
+
 ### Créer ma séquence 
 
 ### Créer mon contenu 
 
+* 
 ### Créer les entités fictives 
 
 #### Environnement 
 
 #### Personnages
 
+* Photo de profil 
+* Pseudo 
+* Nom
+* Prénom 
+* âge - date de naissance + heure
+* 
 ## Structure arborescente 
 
 ### Trois strates
