@@ -4,5 +4,7 @@ Aujourd'hui PoulpBuilder, vous construisez des univers de fiction avec la versio
 
 Attention... les cerveaux sont en train de chauffer... 🤯
 
-Pur nous aider à améliorer Poulp, nous comptons sur nous. Partagez avec nous votre expérience de création et vos suggestions concernant l'outil. C'est ensemble,  🤝
+Pour nous aider à améliorer Poulp, nous comptons sur vous. Partagez avec nous votre expérience de création et vos suggestions concernant l'outil. 
+
+ 🤝C'est ensemble que nous...  
 
