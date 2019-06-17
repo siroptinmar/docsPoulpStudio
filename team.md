@@ -10,9 +10,27 @@ Pour construire une smartfiction, ce sont des savoir-faire et des sensibilité p
 
 \[D'AUTRES OPTIONS À VENIR REVENIR LÀ-DESSUS\]
 
-### Notifié à chaque tâche.
+## 🚨 À VENIR 🚨
 
-## PoulpNation \(à venir\)
+### Notifié à chaque action
+
+PoulpBuilder recevra une notification des autres membres de l'équipe de création lorsqu'un contenu aura été modifié, ajouté ou supprimé. Ces notifications permmetnt d'avoir un suivi de la construction de l'histoire en temps réel et de conserver la trace de processus de création. 
+
+### Affecter une tâche 
+
+Dès qu'un des membres PoulpBuilers affectera une tâche à un PoulpBuilder, ce dernier sera notifié pur être informé de la tâche qui lui a été affecté. 
+
+### Kanban des tâches 
+
+Cette section permettra à l'ensemble de l'équipe d'avoir une visibilité sur l'ensemble des tâches à réaliser pour construire l'histoire. Chacun des PoulpBuilder pourra éditer une tâche, l'inscrire dans une période calendaire et indiquer le staut de la tâche : \[à faire\] - \[en cours\] - \[faite\].
+
+### Boîte de dialogue
+
+Chacun des membres de l'équipe pourra communiquer au sein de cette boîte de dialogue. 
+
+❤️🙌L'ensemble de ces outils permettra un véritable travail collaboratif. 
+
+## 🚨 À VENIR 🚨 --&gt; PoulpNation 
 
 Réseau des PoulpBuilder pour impulser des collaborations entre les différents créateurs. 
 
