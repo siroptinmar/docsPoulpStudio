@@ -92,11 +92,11 @@ Au sein du **\[menu\]** présent à gauche de votre écran, vous retrouves les d
 
 ![](.gitbook/assets/capture-de-cran-2019-06-17-a-15.29.03.png)
 
-#### **\[Story\]**
+#### \*\*\*\*[**\[Story\]**](story.md#creer-mon-histoire-3-vues)\*\*\*\*
 
 Au sein de cet espace de création, bénéficiez d'un outil qui va vous permettre de structurer votre histoire, d'écrire les différents contenus et de les connecter avec les différents éléments fictifs constituant votre histoire. 
 
-#### **\[Entity\]**
+#### \*\*\*\*[**\[Entity\]**](story.md#creer-les-entites-fictives)\*\*\*\*
 
 Créez les personnages et objets fictifs nécessaires à la construction de votre histoire.
 
@@ -111,4 +111,8 @@ Au dessus, de ces différentes sections, vous retrouvez, le titre de votre oeuvr
 La brigade du Poulp revient sur l'invitation des auteurs. 
 
 ![](.gitbook/assets/capture-de-cran-2019-06-17-a-15.19.51.png)
+
+Pour inviter un auteur, il faut que ce dernier s'inscrive à la plateforme PoulpStudio pour rejoindre la communauté PoulpBuilder. Ainsi, une fois inscrit.e, vous pouvez l'inviter au sein de la section **\[dashboard\]** \(comme illustré ci-dessus\) pour constituer votre équipe. Il vous suffit de rentrer le pseudo de l'auteur. Il recevra une notification l'informant de l'invitation, il l'accepte, il fait partie de l'équipe. À vous de collaborer ! 🙌
+
+S'il ne l'accepte pas, il ne peux accéder à l'espace de création. 
 
