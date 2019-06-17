@@ -1,3 +1,7 @@
+---
+description: 'Espace de stockage, d''ajout et de modification de fichiers médias.'
+---
+
 # Gestionnaires de fichiers
 
 ## Gérer les contenus 
@@ -24,7 +28,13 @@ Une fois ces différents champs renseignés et fichier média sélectionné, il 
 
 ### Photo 
 
+--&gt; à renseigner
+
 ### Vidéo 
 
+--&gt; à renseigner
+
 ### Audio 
+
+--&gt; à renseigner
 
