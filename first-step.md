@@ -84,15 +84,31 @@ Face à vous, une fenêtre reprenant les premiers éléments d'informations que 
 
 C'est également au sein de cet espace que vous pouvez inviter des auteurs, constituer votre équipe.
 
-Une fois ces différents champs remplis, vous pouvez accéder à : 
+Au sein du **\[menu\]** présent à gauche de votre écran, vous retrouves les différentes sections/outils vous permettant de construire votre histoire : 
 
-* \[story\]
-* \[entity\]
-* \[bibliothèque\]
+* **\[story\]**
+* **\[entity\]**
+* **\[bibliothèque\]**
 
 ![](.gitbook/assets/capture-de-cran-2019-06-17-a-15.29.03.png)
 
+#### **\[Story\]**
 
+Au sein de cet espace de création, bénéficiez d'un outil qui va vous permettre de structurer votre histoire, d'écrire les différents contenus et de les connecter avec les différents éléments fictifs constituant votre histoire. 
+
+#### **\[Entity\]**
+
+Créez les personnages et objets fictifs nécessaires à la construction de votre histoire.
+
+#### **\[Bibliothèque\]** 
+
+Stockez l'ensemble des fichiers dont vous avez besoin pour que votre histoire prenne vie ! 
+
+Au dessus, de ces différentes sections, vous retrouvez, le titre de votre oeuvre, sa photo de couverture et un lien d'accès à l'ensemble de vos oeuvres **\[mes oeuvres\]**. Notez que vous pouvez également accéder à votre profil via votre avatar situé en haut, à droite de l'interface.
 
 ## Inviter des créateurs à mon œuvre
+
+La brigade du Poulp revient sur l'invitation des auteurs. 
+
+![](.gitbook/assets/capture-de-cran-2019-06-17-a-15.19.51.png)
 
