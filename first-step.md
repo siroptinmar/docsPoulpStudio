@@ -42,17 +42,21 @@ En haut, à droite de l'interface d'accueil, vous pouvez accéder à votre compt
 
 ![capture d&apos;&#xE9;cran de \[mon compte\]](.gitbook/assets/capture-de-cran-2019-06-17-a-10.45.25.png)
 
-
-
-
+Lorsque vous cliquez sur votre profil, vous retrouvez l'ensemble des informations que vous avez renseigné lors de votre inscription. Vous pouvez modifier une information au sein de cet espace. Pour valider les modification, cliquez sur \[submit\]. 
 
 ![capture d&apos;&#xE9;cran de \[mon profil\]](.gitbook/assets/capture-de-cran-2019-06-17-a-11.16.55.png)
 
-#### Documentation 
+Via votre compte, vous pouvez également être redirigé à au sein de l'espace \[documentation\] de Poulp. Cet espace s'ouvrira par défaut dans un nouvel onglet. 
 
-Vous êtes redirigé au sein de la documentation de PoulpStudio. Si vous êtes ici, c'est que vous avez trouvé le lien 🙌. 
+#### - Documentation 
 
-![capture d&apos;&#xE9;cran du \[support\]  ](.gitbook/assets/capture-de-cran-2019-06-17-a-11.18.24.png)
+En cliquant sur \[documentation\], vous êtes redirigé au sein de la documentation de PoulpStudio. Si vous êtes ici, c'est que vous avez trouvé le lien 🙌. 
+
+La dernière section composant votre profil est \[Support\].
+
+#### - Support
+
+En cliquant sur ce lien, vous accédez directement à votre boîte mail. Vous êtes immédiatement mis en contact avec les membres de la brigade de poulps 😉 Le/La Poulp le/la plus rapide vous répondra 💨. Vous pouvez posez toutes vos questions, suggestions et mots doux. 😘
 
 ## Créer un histoire
 
