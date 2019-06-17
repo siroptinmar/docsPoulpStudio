@@ -58,7 +58,27 @@ La dernière section composant votre profil est \[Support\].
 
 En cliquant sur ce lien, vous accédez directement à votre boîte mail. Vous êtes immédiatement mis en contact avec les membres de la brigade de poulps 😉 Le/La Poulp le/la plus rapide vous répondra 💨. Vous pouvez posez toutes vos questions, suggestions et mots doux. 😘
 
-## Créer un histoire
+...........................................PLACE À LA CRÉATION MAINTENANT...........................................
+
+## Créer une histoire
+
+Pour créer une histoire, cliquez sur \[Nouvelle Story\] en bas à gauche de l'interface d'accueil.
+
+![capture d&apos;&#xE9;cran de l&apos;interface d&apos;accueil et de l&apos;acc&#xE8;s &#xE0; \[Nouvelle story\]](.gitbook/assets/capture-de-cran-2019-06-17-a-10.45.09.png)
+
+Vous accédez à la fenêtre d'édition qu'il faut renseigner pour déterminer les premiers éléments de l'histoire comme illustré ci-dessous.
+
+![capture d&apos;&#xE9;cran des champs &#xE0; remplir pour \[Nouvelle Story\]](.gitbook/assets/capture-de-cran-2019-06-17-a-11.47.39.png)
+
+ATTENTION ! Si vous choisissez de restreindre le champ de visibilité de votre histoire au sein de votre équipe de création, sélectionnez \[accessible uniquement avec le lien\]. Si vous souhaitez que l'ensemble de votre équipe accède à l'histoire, sélectionnez \[accessible par tous\]. 
+
+![capture d&apos;&#xE9;cran sur la visibilit&#xE9; de l&apos;histoire &#xE0; cr&#xE9;er](.gitbook/assets/capture-de-cran-2019-06-17-a-11.48.59.png)
+
+Une fois, les champs informationnels renseignées, cliquez sur \[submit\] et accéder à l'espace de création de l'oeuvre.
+
+![](.gitbook/assets/capture-de-cran-2019-06-17-a-12.06.24.png)
+
+
 
 ## Inviter des créateurs à mon œuvre
 
