@@ -6,9 +6,9 @@ description: Une histoire Poulpienne est d'abord une histoire de partage...
 
 ## Travail collaboratif 
 
-Pour construire une smartfiction, ce sont des savoir-faire et sensibilité partagéS qui sont requis. Poulp, est un outil...
+Pour construire une smartfiction, ce sont des savoir-faire et des sensibilité partagés qui sont requis. Cet outil vous permet de travailler ensemble autour d'un projet commun, la création d'une fiction interactive à lire sur smartphone ! 
 
-\[À VENIR\]
+\[D'AUTRES OPTIONS À VENIR REVENIR LÀ-DESSUS\]
 
 ### Notifié à chaque tâche.
 
