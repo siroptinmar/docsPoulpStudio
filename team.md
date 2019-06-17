@@ -28,7 +28,7 @@ Cette section permettra à l'ensemble de l'équipe d'avoir une visibilité sur l
 
 Chacun des membres de l'équipe pourra communiquer au sein de cette boîte de dialogue. 
 
-❤️🙌L'ensemble de ces outils permettra un véritable travail collaboratif. 
+--&gt; L'ensemble de ces outils permettra un travail collaboratif. 
 
 ## 🚨 À VENIR 🚨 --&gt; PoulpNation 
 
