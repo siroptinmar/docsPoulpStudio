@@ -8,8 +8,6 @@ description: Une histoire Poulpienne est d'abord une histoire de partage...
 
 Pour construire une smartfiction, ce sont des savoir-faire et des sensibilité partagés qui sont requis. Cet outil vous permet de travailler ensemble autour d'un projet commun, la création d'une fiction interactive à lire sur smartphone ! 
 
-\[D'AUTRES OPTIONS À VENIR REVENIR LÀ-DESSUS\]
-
 ## 🚨 À VENIR 🚨
 
 ### Notifié à chaque action
@@ -28,7 +26,7 @@ Cette section permettra à l'ensemble de l'équipe d'avoir une visibilité sur l
 
 Chacun des membres de l'équipe pourra communiquer au sein de cette boîte de dialogue. 
 
---&gt; L'ensemble de ces outils permettra un travail collaboratif. 
+❤️🙌L'ensemble de ces outils permettra un véritable travail collaboratif. 
 
 ## 🚨 À VENIR 🚨 --&gt; PoulpNation 
 
