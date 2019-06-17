@@ -18,12 +18,8 @@ Pour une meilleurs indexation et visibilité de vos fichiers, il est conseillé 
 
 ![](.gitbook/assets/capture-de-cran-2019-06-17-a-16.26.34.png)
 
-Une fois ces différents champs renseignés et fichier média sélectionné, il ne vous reste plus qu'à cliquer sur **\[submit\]** pour compiler le fichier dans votre bibliothèque média. Cette bibliothèque vous est réservé exclusivement pour le besoin de l'équipe dans le cadre de la production. Vous pouvez ajouter autant d'éléments médias que vous souhaité selon l'espace disponible indiqué lors de votre abonnement.  
+Une fois ces différents champs renseignés et fichier média sélectionné, il ne vous reste plus qu'à cliquer sur **\[submit\]** pour compiler le fichier dans votre bibliothèque média. Cette bibliothèque vous est réservé exclusivement pour le besoin de l'équipe dans le cadre de la production. Vous pouvez ajouter autant d'éléments médias que vous souhaitez selon l'espace disponible indiqué lors de votre abonnement.  
 
-À TITRE INDICATIF : 
-
-* freemium 
-* 
 ## Format des fichiersfichiers 
 
 ### Photo 
