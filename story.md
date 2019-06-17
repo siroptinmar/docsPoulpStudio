@@ -16,21 +16,23 @@ description: Construire l'univers de fiction
 ### Créer mon contenu 
 
 * 
-### Créer les entités fictives 
+## Créer les entités fictives 
 
 Dans la section **\[Entités\]** vous pouvez créez deux objets : un personnage ou une entités. Il suffit de cliquer sur l'un ou sur l'autre \(l'entité sélectionné est mise en avant\). 
 
-#### Personnage
+### Personnage
 
 Pour créer un personnage, cliquer sur **\[Personnage\]** puis, sur **\[Ajouter\]**.
 
 ![](.gitbook/assets/capture-de-cran-2019-06-17-a-17.12.19.png)
 
-Vous accéder ensuite à la fenêtre d'édition pour créer votre personnage. Il suffit de renseigner les champs d'information requis comme illustré ci-dessous.
+Vous accéder ensuite à la fenêtre d'édition pour créer votre personnage. Il suffit de renseigner les champs d'information requis  - dans la section  **\[Général\]** - comme illustré ci-dessous.
+
+#### Général
 
 ![](.gitbook/assets/capture-de-cran-2019-06-17-a-17.12.30.png)
 
-le choix du template détermine le style. Il faut donc définir en amont si le Personnage mis en jeu est statué selon une identité professionnelle ou personnelle. 
+Le choix du template détermine le style. Il faut donc définir en amont si le Personnage mis en jeu est statué selon une identité professionnelle ou personnelle. 
 
 ![](.gitbook/assets/capture-de-cran-2019-06-17-a-17.12.38.png)
 
@@ -44,11 +46,11 @@ Si le template sélectionné est **\[Professionel\]**, ****alors les styles ****
 
 Dès que vous sélectionnez un template, deux sections apparaissent au-dessus de cette fenêtre d'édition : \[style\] et \[data\]
 
- **- Style**
+####  **Style**
 
 ![](.gitbook/assets/capture-de-cran-2019-06-17-a-17.26.35.png)
 
-**Data**
+#### **Data**
 
 ![](.gitbook/assets/capture-de-cran-2019-06-17-a-17.26.49.png)
 
