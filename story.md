@@ -6,7 +6,27 @@ description: Construire l'univers de fiction
 
 ## Créer mon histoire - 3 vues 
 
+Pour créer une smartfiction, la brigade du Poulp a pris le parti pris de vous offrir un espace d'édition selon  une structure arbores
+
 ### Créer mon chapitre
+
+![](.gitbook/assets/capture-de-cran-2019-06-18-a-10.33.45.png)
+
+Clic Gauche 
+
+![](.gitbook/assets/capture-de-cran-2019-06-18-a-10.34.23.png)
+
+Clic droit
+
+![](.gitbook/assets/capture-de-cran-2019-06-18-a-10.34.36.png)
+
+![](.gitbook/assets/capture-de-cran-2019-06-18-a-10.34.45.png)
+
+![](.gitbook/assets/capture-de-cran-2019-06-18-a-10.44.03.png)
+
+![](.gitbook/assets/capture-de-cran-2019-06-18-a-10.44.35.png)
+
+![](.gitbook/assets/capture-de-cran-2019-06-18-a-10.44.48.png)
 
 * ajouter un chapitre 
 * conditionnalité 
@@ -46,6 +66,8 @@ Si le template sélectionné est **\[Professionel\]**, ****alors les styles ****
 
 Dès que vous sélectionnez un template, deux sections apparaissent au-dessus de cette fenêtre d'édition : **\[style\]** et **\[data\]**
 
+Une fois la section **\[Général\]** complétée, validez  l'ensemble des champs d'informations en cliquant sur **\[Submit\]**.
+
 ####  **Style**
 
 Dans la fenêtre d'édition **\[style\]**, ****vous pouvez modifier les couleurs du _template_ comme illustré ci-dessous.
@@ -80,15 +102,21 @@ Si l'"entité" est potion alors le style à définir sera :
 
 ![Deux styles sont propos&#xE9;s selon le template \[Potion\]](.gitbook/assets/capture-de-cran-2019-06-17-a-17.36.16.png)
 
-Dès que vous sélectionnez un template, deux sections apparaissent au-dessus de cette fenêtre d'édition : \[style\] et \[data\]
+Dès que vous sélectionnez un template, deux sections apparaissent au-dessus de cette fenêtre d'édition : **\[style\]** et **\[data\].**
+
+Une fois la section **\[Général\]** complétée, validez  l'ensemble des champs d'informations en cliquant sur **\[Submit\]**.
 
 #### Style 
 
 ![capture d&apos;&#xE9;cran de la fen&#xEA;tre d&apos;&#xE9;dition \[style\] pour la section \[Entit&#xE9;s\]](.gitbook/assets/capture-de-cran-2019-06-17-a-17.41.27.png)
 
+La section **\[Style\]** permet de définir les couleurs. Une fois définie, cliquer sur **\[Submit\]** pour valider.  
+
 #### Data
 
 ![capture d&apos;&#xE9;cran de la fen&#xEA;tre d&apos;&#xE9;dition \[style\] pour la section \[Data\]](.gitbook/assets/capture-de-cran-2019-06-17-a-17.41.40.png)
+
+La section **\[Data\]** permet de définir les données. Une fois définie, cliquer sur **\[Submit\]** pour valider.  
 
 ## Structure arborescente 
 

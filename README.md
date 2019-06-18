@@ -13,8 +13,6 @@ D'abord pensées pour être lues sur les réseaux sociaux, les fictions interact
 
 La réflexion a été complémentée par un travail de terrain mené dans le cadre d’ateliers d’écriture numérique avec le jeune public \(scolaire\), le public intergénérationnel et des entretiens utilisateurs. Ces entretiens nous ont permis de récolter leurs usages numériques et leurs retours d’expérience de lecture suite à la création de fictions interactives réalisées dans le cadre des ateliers. 
 
-![](.gitbook/assets/poulpin.png)
-
 Ces ateliers ont été menés par :
 
 * Martin Rossi : chef de projet - développeur multimédia
