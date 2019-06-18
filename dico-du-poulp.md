@@ -1,5 +1,5 @@
 ---
-description: "Oui parce que l'on veut être sûrs que vous avez tout bien compris de ce que l'on vous dit, Voyez- vous \uD83E\uDD13"
+description: "Oui parce que l'on veut être sûrs que vous avez tout bien compris de ce que l'on vous dit, Voyez- vous \U0001F913"
 ---
 
 # Dico du Poulp ;-\)

@@ -1,5 +1,5 @@
 ---
-description: "Avec votre tableau bord, d'un seul coup d'oeil, voyez où vous en êtes dans votre production \uD83D\uDE09"
+description: "Avec votre tableau bord, d'un seul coup d'oeil, voyez où vous en êtes dans votre production \U0001F609"
 ---
 
 # Visibilité sur les productions

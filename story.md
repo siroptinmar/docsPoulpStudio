@@ -18,75 +18,77 @@ description: Construire l'univers de fiction
 * 
 ## Créer les entités fictives 
 
-Dans la section **\[Entités\]** vous pouvez créez deux objets : un personnage ou une entités. Il suffit de cliquer sur l'un ou sur l'autre \(l'entité sélectionné est mise en avant\). 
+Dans la section **\[Entités\]** vous pouvez créez deux objets : un **personnage** ou une **entité**. Il suffit de cliquer sur l'onglet **\[Personnage\]** ou **\[Entités\]** \(l'entité sélectionné est mise en avant\) pour accéder au formulaire d'édition. 
 
 ### Personnage
 
 Pour créer un personnage, cliquer sur **\[Personnage\]** puis, sur **\[Ajouter\]**.
 
-![](.gitbook/assets/capture-de-cran-2019-06-17-a-17.12.19.png)
+![capture d&apos;&#xE9;cran de la pr&#xE9;-s&#xE9;lection \[Personnage\]](.gitbook/assets/capture-de-cran-2019-06-17-a-17.12.19.png)
 
-Vous accéder ensuite à la fenêtre d'édition pour créer votre personnage. Il suffit de renseigner les champs d'information requis  - dans la section  **\[Général\]** - comme illustré ci-dessous.
+Vous accédez ensuite à la fenêtre d'édition pour créer votre personnage. Il suffit de renseigner les champs d'information requis  - dans la section  **\[Général\]** - comme illustré ci-dessous.
 
 #### Général
 
-![](.gitbook/assets/capture-de-cran-2019-06-17-a-17.12.30.png)
+![capture d&apos;&#xE9;cran de la fen&#xEA;tre d&apos;&#xE9;dition \[G&#xE9;n&#xE9;ral\] pour \[Personnages\]](.gitbook/assets/capture-de-cran-2019-06-17-a-17.12.30.png)
 
-Le choix du template détermine le style. Il faut donc définir en amont si le Personnage mis en jeu est statué selon une identité professionnelle ou personnelle. 
+Le choix du template détermine le style. Il faut donc définir en amont si le **Personnage** mis en jeu est statué selon une identité professionnelle ou personnelle. 
 
-![](.gitbook/assets/capture-de-cran-2019-06-17-a-17.12.38.png)
+![Capture d&apos;&#xE9;cran pour la pr&#xE9;s&#xE9;lection de la nature identitaire du \[Personnage\] - perso ou pro](.gitbook/assets/capture-de-cran-2019-06-17-a-17.12.38.png)
 
 Si le template sélectionné est **\[Personnel\]**, ****alors les styles ****définis par défaut seront **\[Profil Standard\]** ou **\[Profil Complet\]**
 
-![](.gitbook/assets/capture-de-cran-2019-06-17-a-17.13.06.png)
+![Deux styles sont propos&#xE9;s selon le template \[Personnel\]](.gitbook/assets/capture-de-cran-2019-06-17-a-17.13.06.png)
 
 Si le template sélectionné est **\[Professionel\]**, ****alors les styles ****définis par défaut seront **\[Profil pro complet\]** ou **\[Profil Pro Complet\]**
 
-![](.gitbook/assets/capture-de-cran-2019-06-17-a-17.12.57.png)
+![Deux styles sont propos&#xE9;s selon le template \[Professionel\]](.gitbook/assets/capture-de-cran-2019-06-17-a-17.12.57.png)
 
-Dès que vous sélectionnez un template, deux sections apparaissent au-dessus de cette fenêtre d'édition : \[style\] et \[data\]
+Dès que vous sélectionnez un template, deux sections apparaissent au-dessus de cette fenêtre d'édition : **\[style\]** et **\[data\]**
 
 ####  **Style**
 
-![](.gitbook/assets/capture-de-cran-2019-06-17-a-17.26.35.png)
+Dans la fenêtre d'édition **\[style\]**, ****vous pouvez modifier les couleurs du _template_ comme illustré ci-dessous.
+
+![capture d&apos;&#xE9;cran de la fen&#xEA;tre d&apos;&#xE9;dition \[style\] pour la section \[Personnage\]](.gitbook/assets/capture-de-cran-2019-06-17-a-17.26.35.png)
 
 #### **Data**
 
-![](.gitbook/assets/capture-de-cran-2019-06-17-a-17.26.49.png)
+![capture de la fen&#xEA;tre d&apos;&#xE9;dition de \[Data\] pour la section \[Personnage\]](.gitbook/assets/capture-de-cran-2019-06-17-a-17.26.49.png)
 
 ### Entités 
 
 Pour créer un personnage, cliquer sur **\[Entités\]** puis, sur **\[Ajouter\]**
 
-![](.gitbook/assets/capture-de-cran-2019-06-17-a-17.35.24.png)
+![capture d&apos;&#xE9;cran de la pr&#xE9;-s&#xE9;lection \[Entit&#xE9;s\]](.gitbook/assets/capture-de-cran-2019-06-17-a-17.35.24.png)
 
 Vous accéder ensuite à la fenêtre d'édition pour créer votre personnage. Il suffit de renseigner les champs d'information requis  - dans la section  **\[Général\]** - comme illustré ci-dessous.
 
 #### Général
 
-![](.gitbook/assets/capture-de-cran-2019-06-17-a-17.35.45.png)
+![capture d&apos;&#xE9;cran de la fen&#xEA;tre d&apos;&#xE9;dition \[G&#xE9;n&#xE9;ral\] pour \[Entit&#xE9;s\]](.gitbook/assets/capture-de-cran-2019-06-17-a-17.35.45.png)
 
 Le choix du template détermine le style. Il faut donc définir la nature de l'entité via la section **\[template\]** en définissant si elle l'entité est "objet" ou "potion".
 
-![](.gitbook/assets/capture-de-cran-2019-06-17-a-17.36.05.png)
+![Capture d&apos;&#xE9;cran pour la pr&#xE9;s&#xE9;lection de la nature de l&apos;\[Entit&#xE9;\] - \[Objet\] ou \[Potion\]](.gitbook/assets/capture-de-cran-2019-06-17-a-17.36.05.png)
 
 Si l'entité est "objet" alors le style à définir sera : 
 
-![](.gitbook/assets/capture-de-cran-2019-06-17-a-17.36.29.png)
+![Deux styles sont propos&#xE9;s selon le template \[Objet\]](.gitbook/assets/capture-de-cran-2019-06-17-a-17.36.29.png)
 
 Si l'"entité" est potion alors le style à définir sera : 
 
-![](.gitbook/assets/capture-de-cran-2019-06-17-a-17.36.16.png)
+![Deux styles sont propos&#xE9;s selon le template \[Potion\]](.gitbook/assets/capture-de-cran-2019-06-17-a-17.36.16.png)
 
 Dès que vous sélectionnez un template, deux sections apparaissent au-dessus de cette fenêtre d'édition : \[style\] et \[data\]
 
 #### Style 
 
-![](.gitbook/assets/capture-de-cran-2019-06-17-a-17.41.27.png)
+![capture d&apos;&#xE9;cran de la fen&#xEA;tre d&apos;&#xE9;dition \[style\] pour la section \[Entit&#xE9;s\]](.gitbook/assets/capture-de-cran-2019-06-17-a-17.41.27.png)
 
 #### Data
 
-![](.gitbook/assets/capture-de-cran-2019-06-17-a-17.41.40.png)
+![capture d&apos;&#xE9;cran de la fen&#xEA;tre d&apos;&#xE9;dition \[style\] pour la section \[Data\]](.gitbook/assets/capture-de-cran-2019-06-17-a-17.41.40.png)
 
 ## Structure arborescente 
 

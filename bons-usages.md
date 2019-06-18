@@ -18,7 +18,9 @@ En bon petits Poulps que nous sommes, nous vous avons concocté une petite encyc
 
 📚La _notifiction_ est ce qui fait événement dans votre histoire ! La _notifiction_ est la contraction de deux termes : "notification" et "fiction". Techniquement, la _notifiction_ a les mêmes propriétés qu’une notification mais son emploi n’est pas le même. La notifcation fait événement dans mon smartphone. Elle me rappelle les différents événements que j'ai programmés ou auxquels je me suis inscrit.e. La _notifiction_ quant à elle, __fait événement au sein de l'histoire à laquelle le lecteur/joueur s'est abonnée. Elle balise les différentes étapes de l'histoire et participe à la mise en intrigue de l'histoire. Elle permet de rediriger le/la _PoulpReader_ dans l’espace de lecture que vous, [PoulpBuilder](dico-du-poulp.md#poulpbuilder), souhaitez. 📚
 
-![Distinguo entre notifiction et notification](.gitbook/assets/notifiction-notificationpou.jpg)
+![repr&#xE9;sentation d&apos;une notifiction ](.gitbook/assets/poulp.png)
+
+![repr&#xE9;sentation d&apos;une notification](.gitbook/assets/realite.png)
 
 ### Avec PoulpStudio : 
 
